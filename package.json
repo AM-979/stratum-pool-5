@@ -1,0 +1,89 @@
+{
+  "_from": "https://github.com/shitbox120/stratum-pool-5/",
+  "_id": "stratum-pool@0.1.7",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "stratum-pool@git+https://github.com/tweetyf/kawpow-stratum-pool.git",
+    "name": "stratum-pool",
+    "escapedName": "stratum-pool",
+    "rawSpec": "git+https://github.com/tweetyf/kawpow-stratum-pool.git",
+    "saveSpec": "git+https://github.com/tweetyf/kawpow-stratum-pool.git",
+    "fetchSpec": "https://github.com/tweetyf/kawpow-stratum-pool.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tweetyf/kawpow-stratum-pool.git#615830e5861ccb59bbb583382e8bb54d7be7a1b4",
+  "_spec": "stratum-pool@git+https://github.com/tweetyf/kawpow-stratum-pool.git",
+  "_where": "/pool/kawpow-pool",
+  "author": {
+    "name": "Traysi"
+  },
+  "bugs": {
+    "url": "https://github.com/RavenCommunity/kawpow-stratum-pool/issues"
+  },
+  "contributors": [
+    {
+      "name": "Jeremy Anderson"
+    },
+    {
+      "name": "Matthew Little"
+    },
+    {
+      "name": "vekexasia"
+    },
+    {
+      "name": "TheSeven"
+    },
+    {
+      "name": "fellu"
+    },
+    {
+      "name": "anduck"
+    },
+    {
+      "name": "f00rk-shitbox120"
+    }
+
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "big-integer": "^1.6.48",
+    "bignum": "^0.13.1",
+    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
+    "merkle-bitcoin": "git+https://github.com/Nur1Labs/merkle-bitcoin.git",
+    "promise": "*",
+    "sha3": "*"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js for neoxa v5.1.1.4 ",
+  "engines": {
+    "node": ">=7"
+  },
+  "homepage": "https://github.com/shitbox120/stratum-pool-5/",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "bitcoin",
+    "Ravencoin",
+    "kawpow",
+    "Neoxa"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shitbox120/stratum-pool-5/"
+  },
+  "version": "0.1.7"
+}
